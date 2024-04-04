@@ -10,6 +10,6 @@
 
 
 #### view the data for Sanjays
-### clean any of the data for Sanjays and Auntie Jasmine
+#### clean any of the data for Sanjays and Auntie Jasmine
 #### analyse both restaurants, i.e best sellers, seasonal sales, what isn't selling and compare
 #### make business reccomendations to Sanjays
