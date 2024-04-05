@@ -8,7 +8,15 @@
 ![image](https://github.com/rahulbatra97/pyspark_mini_project/assets/65783110/e2a38b3e-fefb-4eb1-909b-d10f492ddddb)
 ##### (image from DALL E, prompt: an indian takeaway restaurant in the style of a matise oil painting) 
 
+### Setup
+#### the data is in 4 seperate csv files, a Orders and a Products Prices for each respective restaurant (restaurant 1 is sanjays, restaurant 2 is Auntie Jasmines)
+#### these csv data files can be found in the repository 
+#### to handle the large data (33,000+ records) we will use databricks
+#### open databricks, create and run a new compute (cluster)
+#### in the homepage you can upload data, upload the 4 csv files
+#### open up this notebook pyspark_mini_project_rahul 
 
+### Objectives 
 #### view the data for Sanjays
 #### clean any of the data for Sanjays and Auntie Jasmine
 #### analyse both restaurants, i.e best sellers, seasonal sales, what isn't selling and compare
