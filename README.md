@@ -23,3 +23,4 @@
 #### make business reccomendations to Sanjays
 
 ##### see the kanban board here: https://app.clickup.com/9015533033/v/b/li/901503991355
+##### user stories were create with the use of chatGPT 
