@@ -21,3 +21,5 @@
 #### clean any of the data for Sanjays and Auntie Jasmine
 #### analyse both restaurants, i.e best sellers, seasonal sales, what isn't selling and compare
 #### make business reccomendations to Sanjays
+
+##### see the kanban board here: https://app.clickup.com/9015533033/v/b/li/901503991355
